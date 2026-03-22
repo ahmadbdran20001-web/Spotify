@@ -1,5 +1,5 @@
 # Spotify_data_analysis
-data analysis project using power bi to explore spotify application
+data analysis project using power bi to explore spotify platform
 ## Data source :
 from kaggel 
 ## Tools used :
